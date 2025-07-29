@@ -89,21 +89,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://t.me/dpsbots/5"
+    "START_IMG_URL", "https://t.me/dpsbots/3"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://t.me/c/2321160275/5"
+    "PING_IMG_URL", "https://t.me/dpsbots/5"
 )
-PLAYLIST_IMG_URL = "https://t.me/c/2321160275/4"
-STATS_IMG_URL = "https://t.me/c/2321160275/3"
-TELEGRAM_AUDIO_URL = "https://t.me/c/2321160275/4"
-TELEGRAM_VIDEO_URL = "https://t.me/c/2321160275/5"
-STREAM_IMG_URL = "https://t.me/c/2321160275/3"
-SOUNCLOUD_IMG_URL = "https://t.me/c/2321160275/5"
-YOUTUBE_IMG_URL = "https://t.me/c/2321160275/4"
-SPOTIFY_ARTIST_IMG_URL = "https://t.me/c/2321160275/5"
-SPOTIFY_ALBUM_IMG_URL = "https://t.me/c/2321160275/3"
-SPOTIFY_PLAYLIST_IMG_URL = "https://t.me/c/2321160275/4"
+PLAYLIST_IMG_URL = "https://t.me/dpsbots/4"
+STATS_IMG_URL = "https://t.me/dpsbots/5"
+TELEGRAM_AUDIO_URL = "https://t.me/dpsbots/4"
+TELEGRAM_VIDEO_URL = "https://t.me/dpsbots/3"
+STREAM_IMG_URL = "https://t.me/dpsbots/5"
+SOUNCLOUD_IMG_URL = "https://t.me/dpsbots/3"
+YOUTUBE_IMG_URL = "https://t.me/dpsbots/5"
+SPOTIFY_ARTIST_IMG_URL = "https://t.me/dpsbots/4"
+SPOTIFY_ALBUM_IMG_URL = "https://t.me/dpsbots/4"
+SPOTIFY_PLAYLIST_IMG_URL = "https://t.me/dpsbots/3"
 
 
 def time_to_seconds(time):
