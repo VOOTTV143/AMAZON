@@ -21,7 +21,7 @@ def help_pannel(_, START: Union[bool, int] = None):
             
             [
                     InlineKeyboardButton(
-                        "⚠️ 𝗢𝗪𝗡𝗘𝗥", url=f"https://t.me/I_RAMBHAKT_I"
+                        "⚠️ 𝗢𝗪𝗡𝗘𝗥", url=f"https://t.me/Lallparii"
                     )
                 ,
                     InlineKeyboardButton(
