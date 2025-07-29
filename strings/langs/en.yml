@@ -219,10 +219,9 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<blockquote>➲ <b> ❖  𝛅ᴛᴧʀᴛєᴅ  𝛅ᴛʀєᴧϻɪηɢ </b></blockquote>\n\n<blockquote><b>➠ Tɪᴛʟᴇ :</b> <a href={0}>{1}</a>\n<b>➠ Dᴜʀᴀᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>➠ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}</blockquote>"
-stream_2 : "➲ <b> ❖  𝛅ᴛᴧʀᴛєᴅ  𝛅ᴛʀєᴧϻɪηɢ </b>\n\n<b>➠ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>➠ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {0}" 
-stream_3 : "➲ <b>❖  ϻᴧᴅє  ʙʏ  ➛  [❛ .𝁘ໍ𝐕 𝚲 𝚴 𝚰 𓆩💗𓆪𓈒](https://t.me/Lallparii)"
-
+stream_1 : "<blockquote>➲ <b>❖  𝛅ᴛᴧʀᴛєᴅ  𝛅ᴛʀєᴧϻɪηɢ  </b></blockquote>\n\n<blockquote><b>➠ Tɪᴛʟє :</b> <a href={0}>{1}</a>\n<b>➠ ᴅᴜʀᴧᴛɪση :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>➠ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}</blockquote>\n\n<b><blockquote>➲ ❖  ϻᴧᴅє  ʙʏ  ➛  </b><a href='https://t.me/Lallparii'>❛ .𝁘ໍ𝐕 𝚲 𝚴 𝚰 𓆩💗𓆪𓈒 </a>‌\n</blockquote>"
+stream_2 : "➲ <b> ❖  𝛅ᴛᴧʀᴛєᴅ  𝛅ᴛʀєᴧϻɪηɢ  </b>\n\n<b>➠ 𝛅ᴛʀєᴧϻɪηɢ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>➠ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {0}" 
+stream_3 : "➲ <b> ❖  ϻᴧᴅє  ʙʏ  ➛   [❛ .𝁘ໍ𝐕 𝚲 𝚴 𝚰 𓆩💗𓆪𓈒](https://t.me/@Lallparii)"
 #General
 CLOSE_BUTTON  : "↻ ᴄʟᴏsᴇ ↻"
 CLOSEMENU_BUTTON  : "↻ ᴄʟᴏsᴇ ↻"
